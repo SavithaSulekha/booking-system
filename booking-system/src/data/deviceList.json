@@ -1,0 +1,41 @@
+[{
+    "id": "d1",
+    "name": "Device 1",
+    "description":"This can be used for ----- purpose",
+    "status":"Available",
+    "nextAvailable":"",
+    "bookedBy":""
+  },
+  {
+    "id": "d2",
+    "name": "Device 2",
+    "description":"This can be used for ----- purpose",
+    "status":"Booked",
+    "nextAvailable":"2021-12-25 17:24:54",
+    "bookedBy":"User_1"
+  },
+  {
+    "id": "d3",
+    "name": "Device 3",
+    "description":"This can be used for ----- purpose",
+    "status":"Booked",
+    "nextAvailable":"2021-12-23 17:24:54",
+    "bookedBy":"User_2"
+  },
+  {
+    "id": "d4",
+    "name": "Device 4",
+    "description":"This can be used for ----- purpose",
+    "status":"Available",
+    "nextAvailable":"",
+    "bookedBy":""
+  },
+  {
+    "id": "d5",
+    "name": "Device 5",
+    "description":"This can be used for ----- purpose",
+    "status":"Available",
+    "nextAvailable":"",
+    "bookedBy":""
+  }
+]

@@ -1,0 +1,25 @@
+.product {
+  margin: auto;
+  box-shadow: 0 2px 3px #ccc;
+  display: flex;
+  padding: 10px 0;
+  width: max-content;
+}
+
+.imagePhn {
+  width: 261px;
+  box-shadow: 1px 0 rgb(151, 142, 142);
+}
+.data {
+  padding: 42px 12px 0;
+}
+
+.bookButton {
+  display: block;
+  color: white;
+  background-color: #5d57e8;
+  height: 31px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
